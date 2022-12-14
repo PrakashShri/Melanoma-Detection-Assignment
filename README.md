@@ -46,9 +46,27 @@ The data set contains the following diseases:
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+-library 1 -pandas
+
+-library 2- matplotlib
+
+-library 3- warnings
+
+-library 4 -numpy
+
+-library 5 -seaborn
+
+-library 6- sklearn
+
+-library 7-statsmodels
+
+-library 8- tensorflow
+
+-library 9- keras
+
+-library 10- CNN
+
+-library 11- Neural Network
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
