@@ -72,10 +72,7 @@ The data set contains the following diseases:
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+This project is completed after successfully completing the Advance learning session module provided by IIITB & UpGrad .
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
