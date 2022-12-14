@@ -32,10 +32,15 @@ The data set contains the following diseases:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+#### Analyze your results here. Did you get rid of underfitting/overfitting? Did class rebalance help?
+
+- The class rebalance helped in reducing overfititng of the data and thus the loass is beng reduced But it reduced the Acurracy very low
+
+- Initially we tried without the ImageDataGenerator which created data to over fit at high ratio
+
+- Then we introduced dropout and ImageDataGenerator which reduced the over fit
+
+- At last we tried Batch Normalization and Augumentation which really helped in carry forward
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
