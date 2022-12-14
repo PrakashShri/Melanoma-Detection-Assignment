@@ -75,7 +75,7 @@ Give credit here.
 This project is completed after successfully completing the Advance learning session module provided by IIITB & UpGrad .
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@PrakashShri] - feel free to contact me!
 
 
 <!-- Optional -->
